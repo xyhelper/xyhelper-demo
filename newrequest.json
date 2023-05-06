@@ -1,0 +1,20 @@
+{
+    "action": "next",
+    "messages": [
+        {
+            "id": "ac9a1803-1b9f-4e18-a289-76220714f1fc",
+            "author": {
+                "role": "user"
+            },
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    "hello"
+                ]
+            }
+        }
+    ],
+    "parent_message_id": "c6cb6570-7e96-4ebe-b3d5-16a8a31e5566",
+    "model": "text-davinci-002-render-sha",
+    "timezone_offset_min": -480
+}

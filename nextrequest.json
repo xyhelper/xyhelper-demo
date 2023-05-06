@@ -1,0 +1,21 @@
+{
+    "action": "next",
+    "messages": [
+        {
+            "id": "4627a8df-bf76-4879-9901-ca5834e0e788",
+            "author": {
+                "role": "user"
+            },
+            "content": {
+                "content_type": "text",
+                "parts": [
+                    "nice to meet you"
+                ]
+            }
+        }
+    ],
+    "conversation_id": "2d670fa3-c36b-46cc-826c-c03df4952f89",
+    "parent_message_id": "2c11836e-b080-4683-a93a-81d0a17b2b63",
+    "model": "text-davinci-002-render-sha",
+    "timezone_offset_min": -480
+}
